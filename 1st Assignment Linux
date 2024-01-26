@@ -1,0 +1,7 @@
+git config --global.user "Ahearn, Fintan"
+git config --global.user "fahearn001@student.franciscan.edu"
+git clone https://github.com/FUSEngineering/git-starter-fahearn
+cd FUSEngineering  or  git-starter-fahearn
+git pull
+ferror: git init git pull
+SSH Key
